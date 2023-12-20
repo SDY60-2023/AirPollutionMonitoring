@@ -1,19 +1,9 @@
 # AirPollutionMonitoring
-IoT Air Pollution Monitoring System
-IoT (Internet of Things) has become an integral part of our lives and it has already made an impact in various sectors, including the environment. Air pollution is a severe problem that has been affecting our planet for years. Therefore, there is a need for a reliable and efficient air pollution monitoring system to protect ourselves from its hazardous effects. An IoT-based air pollution monitoring system is an ideal solution that can provide real-time data and insights about the air quality in a particular area.
+Σύστημα παρακολούθησης της ατμοσφαιρικής ρύπανσης IoT
+Το IoT (Internet of Things) έχει γίνει αναπόσπαστο μέρος της ζωής μας και έχει ήδη επιδράσει σε διάφορους τομείς, συμπεριλαμβανομένου του περιβάλλοντος. Η ατμοσφαιρική ρύπανση είναι ένα σοβαρό πρόβλημα που επηρεάζει τον πλανήτη μας εδώ και χρόνια. Επομένως, υπάρχει ανάγκη για ένα αξιόπιστο και αποτελεσματικό σύστημα παρακολούθησης της ατμοσφαιρικής ρύπανσης για να προστατευτούμε από τις επικίνδυνες επιπτώσεις της. Ένα σύστημα παρακολούθησης της ατμοσφαιρικής ρύπανσης που βασίζεται στο IoT είναι μια ιδανική λύση που μπορεί να παρέχει δεδομένα και πληροφορίες σε πραγματικό χρόνο σχετικά με την ποιότητα του αέρα σε μια συγκεκριμένη περιοχή.
 
-An IoT based air pollution monitoring system consists of several hardware and software components that work together to collect and process data. The hardware components include sensors, microcontrollers, and communication modules. The software components consist of a cloud platform, a mobile application, and a web-based dashboard.
+Ένα σύστημα παρακολούθησης της ατμοσφαιρικής ρύπανσης που βασίζεται στο IoT αποτελείται από πολλά στοιχεία υλικού και λογισμικού που συνεργάζονται για τη συλλογή και επεξεργασία δεδομένων. Τα στοιχεία υλικού περιλαμβάνουν αισθητήρες, μικροελεγκτές και μονάδες επικοινωνίας. Τα στοιχεία λογισμικού αποτελούνται από μια πλατφόρμα cloud, μια εφαρμογή για κινητά και έναν πίνακα ελέγχου που βασίζεται στον ιστό.
 
 
----
-author: apoapost
-title: AirPollutionMonitoring
-year: 2023
-image_url: C:\Users\User\Pictures\Air Quality Monitoring System.jpg
-caption: 'Στον σημερινό κόσμο, όπου η ατμορύπανση αποτελεί σημαντική απειλή για την υγεία και την ευημερία μας, η ανάγκη για εξατομικευμένη παρακολούθηση της ποιότητας του αέρα είναι πιο κρίσιμη από ποτέ. Φορητοί αισθητήρες όπως το edimax επαναστατικοποιούν τον τρόπο με τον οποίο κατανοούμε και διαχειριζόμαστε την έκθεσή μας σε ρύπους αέρα.'
-license_url: https://www.edimax.com/edimax/global/
-license_text: edimax
-categories:
-  - Αισθητήρες
----
+
 
